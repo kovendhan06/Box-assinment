@@ -1,0 +1,28 @@
+body{
+    background-color:lightgray;
+}
+.fa{
+color:blue;
+}
+
+span{
+    font-size: 14px;
+}
+
+.insidebox
+{
+   background-color: whitesmoke; 
+   padding:60px 10px;
+   margin:30px 0px;
+}
+
+a{
+    border-bottom: 1px solid blue;
+}
+.box{
+    padding:60px 10px;
+}
+.text
+{
+margin:10px 0px;
+}
